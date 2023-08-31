@@ -41,7 +41,7 @@ export default function Header() {
       <h1 className={styles.title}>Привет, Практикум.</h1>
       <nav className={styles.nav}>
         {navLinks.map((link) => {
-          const isActive = pathname === link.href
+          const isActive = pathname === link.href;
   
           return (
             <Link

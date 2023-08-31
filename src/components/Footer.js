@@ -1,7 +1,5 @@
 'use client';
-import Image from 'next/image';
 import styles from './Footer.module.css';
-import imageToTop from '../../public/images/to-top.svg';
 
 function scrollToTop() {
   let browserDetected = typeof window !== 'undefined';
