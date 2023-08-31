@@ -1,0 +1,28 @@
+.footer {
+  margin: 0;
+  padding: 50px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonToTop {
+  width: 100px;
+  height: 100px;
+  margin: 0;
+  padding: 25px;
+  display: block;
+  background-color: transparent;
+  background-image: url('../../public/images/to-top.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-origin: content-box;
+  border: none;
+  border-radius: 50px;
+}
+
+.buttonToTop:hover {
+  background-color: #d0d0d0;
+  cursor: pointer;
+}
