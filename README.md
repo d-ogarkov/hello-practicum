@@ -6,5 +6,5 @@
 
 ## Ссылки
 
-* [Задеплоенное приложение](https://hello-practicum.ogarkov.com/)
+* [Задеплоенное приложение](https://hello-practicum.vercel.app/)
 * [Репозиторий](https://github.com/d-ogarkov/hello-practicum)
