@@ -4,7 +4,7 @@ import styles from './layout.module.css';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
-const roboto = Roboto({ subsets: ['latin', 'cyrillic'], weight: '400' })
+const roboto = Roboto({ subsets: ['latin', 'cyrillic'], weight: '400' });
 
 export const metadata = {
   title: 'Привет, Практикум',

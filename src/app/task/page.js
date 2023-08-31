@@ -4,7 +4,7 @@ import styles from '../layout.module.css';
 export function generateMetadata() {
   return {
     title: 'Задание для подростков',
-  }
+  };
 }
 
 const code1 = `{ … ( … ) … }`;
